@@ -1,0 +1,6 @@
+>> FCFS METHOD <<
+p wait time ; 
+P0: 0
+P1: -48
+P2: -94
+AVG WAIT TIME -->> -71
