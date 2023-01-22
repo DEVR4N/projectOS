@@ -1,8 +1,5 @@
- __  __     __         
-|  \|_ \  /|__) /\ |\ |
-|__/|__ \/ | \ /--\| \|
-                       
-# projectOS
+
+# projectOperatingSystems
 
 This project was developed for the Operating Systems course.
 The program has some margins of error, but some of it is complete.
